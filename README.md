@@ -6,9 +6,11 @@
 
 * Click on import a repo and paste the below repo link
   
-``` https://github.com/WebX-Divin/calculator.git ```
+``` 
+https://github.com/WebX-Divin/calculator.git
+```
 
-* Also click on This is a flutter app and then import the repository
+* Also click on `This is a flutter app` and then import the repository
 
 * This is how it looks once it is opened in Project IDx
 
